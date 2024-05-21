@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavr149&label=Profile%20views&color=0e75b6&style=flat" alt="pranavr149" /> </p>
 
-- 🌱 I’m currently learning **CNN, RNN and LLM's**
+- 🌱 I’m currently working on **LLM's hands-on Project**
 
 - 👨‍💻 All of my projects are available at [https://pr149-portfolio.netlify.app/](https://pr149-portfolio.netlify.app/)
 
