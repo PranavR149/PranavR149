@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavr149&label=Profile%20views&color=0e75b6&style=flat" alt="pranavr149" /> </p>
 
-- 🌱 I’m currently working on **LLM's hands-on Project**
+- 🌱 I’m currently diving deep into an exciting **hands-on project with Large Language Models (LLMs)**
 
 - 👨‍💻 All of my projects are available at [https://pr149-portfolio.netlify.app/](https://pr149-portfolio.netlify.app/)
 
