@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://pr149-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Pranav Ramesh</h1>
-<h3 align="center">A passionate Data Professional looking for Data Science/Analytics & ML roles!</h3>
+<h3 align="center">A passionate Data Professional who loves to dive deep into the Data Science/Analytics & ML domain!</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pr149-portfolio.netlify.app/](https://pr149-portfolio.netlify.app/)
 
-- 💬 Ask me about **Machine Learning, Tableau, Python, SQL, Statistics, Power Apps & Automate**
+- 💬 Ask me about **Machine Learning, Deep Learning, Tableau, Python, SQL, Statistics, SharePoint, Power Apps & Automate**
 
 - 📫 How to reach me **pranavramesh84@gmail.com**
 
